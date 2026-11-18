@@ -1,13 +1,13 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
+- Họ và tên: Nguyễn Thành Đạt
+- MSHV: 2A202603258
 - Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
+- Tài khoản GitHub: NGUYENTHANHDATHH
 - Repo bài nộp (URL): <<>>
 - Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Máy: Windows 11 Pro, CPU (không có GPU), Python 3.12.10
+- CVAT (Docker): v2.74.1
 
 ## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
 
