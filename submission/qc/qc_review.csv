@@ -1,6 +1,7 @@
 image,object_id,error_type,reviewer,note
-img_003.jpg,,,,
-img_006.jpg,,,,
-img_014.jpg,,,,
-img_031.jpg,,,,
-img_035.jpg,,,,
+img_003.jpg,16,thua,claude,"three_wheeler 0.61 bao vùng người + xe máy ở xa bên trái, không thấy xe ba bánh"
+img_006.jpg,84,thua,claude,"person 0.58 góc trên phải là ban công / mái hiên, không có người"
+img_014.jpg,143,sai_vi_tri_kich_thuoc,claude,"box person rộng sang trái ôm cả quang gánh và thúng hàng; box phải ôm sát người"
+img_031.jpg,421,sai_vi_tri_kich_thuoc,claude,"box person dừng ở thắt lưng (y~437) trong khi chân vẫn thấy dưới xe đạp đến ~y 680"
+img_035.jpg,495,thua,claude,"motorbike 0.77 trên mặt tiền tầng 2 / cờ, không có xe máy"
+img_035.jpg,,thua,claude,"box three_wheeler 0.38 trùng lên xích lô đã có box #484 (gán 2 lần một vật); không đọc được id"
